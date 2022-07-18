@@ -1,16 +1,18 @@
+# Ayush Verma
+
 ### Hi there 👋
 
-<!--
-**ayushvrma/ayushvrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML intern at [Diool](https://www.diool.com/).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **Deep Learning** Enthusiast and a **Flutter Developer**.
+
+
+Currently an 3rd year undergrad pursuing Computer Science and Bussiness Systems from [Thapar University](https://www.thapar.edu/), India.
+
+My research focus is broadly centered around *Computer Vision* and *Deep Learning*. I work on research projects dealing with Generative Adversial Networks (GANs) and Zero Shot Learning, Reinforcement Learning. I intend to explore deep model under low-resource training data scenario using semi-supervised and self-supervised paradigm.
+
+
+## Reach Me At
+[<img src="Assets/linkedin.svg" width="28">](https://www.linkedin.com/in/ayushvrma/)
+
