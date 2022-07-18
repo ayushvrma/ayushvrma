@@ -14,5 +14,11 @@ My research focus is broadly centered around *Computer Vision* and *Deep Learnin
 
 
 ## Reach Me At
-[<img src="Assets/linkedin.svg" width="28">](https://www.linkedin.com/in/ayushvrma/)
+[Resume](https://ayushvrma.github.io/uploads/resume.pdf) 📄
 
+Website 🌐: <https://ayushvrma.github.io/>
+
+Email ✉️: ayushvrma08@gmail.com
+
+[<img src="Assets/linkedin.svg" width="28">](https://www.linkedin.com/in/ayushvrma/)
+[<img src="Assets/twitter.svg" width="28">](https://twitter.com/_oyus_/) [<img src="Assets/instagram.svg" width="28">](https://instagram.com/ayush.vrma)
