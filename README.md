@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-AI/ML intern at [Diool](https://www.diool.com/).
+ex - AI/ML intern at [Diool](https://www.diool.com/).
 
 
 I am a **Deep Learning** Enthusiast and a **Flutter Developer**.
