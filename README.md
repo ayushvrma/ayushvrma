@@ -12,3 +12,8 @@ and Applications in Radiance Fields [[Paper]](https://arxiv.org/pdf/2506.22433v1
 Nvidia-DeepStream [[Link]](https://developer.nvidia.com/deepstream-sdk)
 
 Nvidia-Pipetuner [[Link]](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pipetuner)
+
+
+23June '25
+
+Meta V-Jepa[[Paper]](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)
