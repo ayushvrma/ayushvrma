@@ -17,3 +17,5 @@ Nvidia-Pipetuner [[Link]](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/
 23June '25
 
 Meta V-Jepa[[Paper]](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)
+
+2 Generals Problem [[Distributed Systems]](https://youtu.be/MSU6coE1j8M?si=CoKWl85wjFoM598S)
