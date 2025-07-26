@@ -19,3 +19,5 @@ Nvidia-Pipetuner [[Link]](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/
 Meta V-Jepa[[Paper]](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)
 
 2 Generals Problem [[Distributed Systems]](https://youtu.be/MSU6coE1j8M?si=CoKWl85wjFoM598S)
+
+Xavier Weights Initialisation [[Revision]](https://prateekvjoshi.com/2016/03/29/understanding-xavier-initialization-in-deep-neural-networks/)
