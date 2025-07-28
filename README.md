@@ -19,3 +19,5 @@ Meta V-Jepa[[Paper]](https://ai.meta.com/research/publications/revisiting-featur
 2 Generals Problem [[Distributed Systems]](https://youtu.be/MSU6coE1j8M?si=CoKWl85wjFoM598S)
 
 Xavier Weights Initialisation [[Revision]](https://prateekvjoshi.com/2016/03/29/understanding-xavier-initialization-in-deep-neural-networks/)
+
+LLM Evaluation [[G-Eval]](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient)
