@@ -26,4 +26,4 @@ Xavier Weights Initialisation [[Revision]](https://prateekvjoshi.com/2016/03/29/
 Custom metric to easily build deterministic decision trees (DAG) for evaluation [[DAGEval]](https://deepeval.com/docs/metrics-dag)
 
 #### Misc
-https://www.laws-of-software.com/laws/atwood/
+Atwood's Law [[Blog]](https://blog.codinghorror.com/the-principle-of-least-power/)
