@@ -7,7 +7,7 @@ ex- Computer Vision @ Spyne.AI where I worked on various vision tasks like Class
 
 ex - AI Intern at Diool where I worked on EDA of B2B financial data for flexible payment options modelling.
 
-I have worked as a researcher for 2 PhDs at UoSC, Southern Carolina and University of Norway.
+I have worked as a researcher for 2 PhDs at UoSC, Southern Carolina and University of Norway during my Bachelor's degree.
 
 
 
