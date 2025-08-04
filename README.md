@@ -1,14 +1,26 @@
-### hola! 👋
+## hola! 👋
 AI/ML Engineer and Researcher.
 
+Currently orchestrating agents!
+
+ex- Computer Vision @ Spyne.AI where I worked on various vision tasks like Classfication, Image2Image, Detection, Flow Matching, 3D and much more.
+
+ex - AI Intern at Diool where I worked on EDA of B2B financial data for flexible payment options modelling.
+
+I have worked as a researcher for 2 PhDs at UoSC, Southern Carolina and University of Norway.
+
+
+
 i read my dailies at ayushvrma08@gmail.com
+
+[[Resume]](https://docs.google.com/document/d/1OGQpu8eGOHEbdqdFbavHFcaifj8q1A06/edit?usp=sharing&ouid=102209990057688930454&rtpof=true&sd=true)
 
 >## Interesting Reading
 
 WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification
 and Applications in Radiance Fields [[Paper]](https://arxiv.org/pdf/2506.22433v1)
 
-Nvidia-DeepStream [[Link]](https://developer.nvidia.com/deepstream-sdk)
+Nvidia-DeepStream [[Link]](https://developer.nvidia.com/deepstream-sdk) 
 
 Nvidia-Pipetuner [[Link]](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pipetuner)
 
