@@ -39,3 +39,5 @@ Custom metric to easily build deterministic decision trees (DAG) for evaluation 
 
 #### Misc
 Atwood's Law [[Blog]](https://blog.codinghorror.com/the-principle-of-least-power/)
+
+Bash Learning [[BashGuide]](https://mywiki.wooledge.org/BashGuide)
