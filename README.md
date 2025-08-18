@@ -37,6 +37,9 @@ Xavier Weights Initialisation [[Revision]](https://prateekvjoshi.com/2016/03/29/
 
 Custom metric to easily build deterministic decision trees (DAG) for evaluation [[DAGEval]](https://deepeval.com/docs/metrics-dag)
 
+## MEMORY !
+[[MONGODB memory Management]](https://www.youtube.com/watch?v=W2HVdB4Jbjs&ab_channel=AIEngineer)
+
 #### Misc
 Atwood's Law [[Blog]](https://blog.codinghorror.com/the-principle-of-least-power/)
 
