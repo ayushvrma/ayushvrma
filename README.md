@@ -32,15 +32,8 @@ Meta V-Jepa[[Paper]](https://ai.meta.com/research/publications/revisiting-featur
 
 Xavier Weights Initialisation [[Revision]](https://prateekvjoshi.com/2016/03/29/understanding-xavier-initialization-in-deep-neural-networks/)
 
+Atwood's Law [[Blog]](https://blog.codinghorror.com/the-principle-of-least-power/)
 #### LLM Evaluation
 [[G-Eval]](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient)
 
 Custom metric to easily build deterministic decision trees (DAG) for evaluation [[DAGEval]](https://deepeval.com/docs/metrics-dag)
-
-## MEMORY !
-[[MONGODB memory Management]](https://www.youtube.com/watch?v=W2HVdB4Jbjs&ab_channel=AIEngineer)
-
-#### Misc
-Atwood's Law [[Blog]](https://blog.codinghorror.com/the-principle-of-least-power/)
-
-Bash Learning [[BashGuide]](https://mywiki.wooledge.org/BashGuide)
